@@ -18,5 +18,11 @@
     },
     "require": {
         "guzzlehttp/guzzle": "^7.0|^6.2"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:algorozco/hellosign-php-sdk-a.git"
+        }
+    ]
 }
